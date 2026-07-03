@@ -9,3 +9,4 @@ Personal Homebrew tap. macOS only (casks are not supported on Linux).
 ## Casks
 
 - `slack-cli` - https://github.com/tammersaleh/slack-cli
+- `confluence-cli` - https://github.com/tammersaleh/confluence-sync
